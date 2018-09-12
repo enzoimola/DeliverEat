@@ -1,1 +1,12 @@
-lo que va
+Nombre: Realizar pedido lo que sea
+Yo como usuario quiero poder pedir un pedido de lo que sea para recibir un producto que no se encuentra de tro del catalogo de los comercios adheridos.
+Notas:
+      Los datos necesarios son: 
+        -Una breve descripción de lo que queres.
+        -Una foto descriptiva.
+      Indicar donde retirar el producto:
+        - Puede ser seleccionando un punto en un mapa interactivo
+        - Completando en forma textual la dirección del comercio
+Pruebas 
+-Probar completar con todos los campos completos (Pasa)
+-Probar completar con algún campo incompleto (Falla)
