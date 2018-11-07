@@ -5,8 +5,8 @@ Notas:
         -Una breve descripción de lo que queres.
         -Una foto descriptiva.
       Indicar donde retirar el producto:
-        - Puede ser seleccionando un punto en un mapa interactivo
-        - Completando en forma textual la dirección del comercio
+        - Puede ser seleccionando un punto en un mapa interactivo.
+        - Completando en forma textual la dirección del comercio.
 Pruebas 
 -Probar completar con todos los campos completos (Pasa)
 -Probar completar con algún campo incompleto (falla)
