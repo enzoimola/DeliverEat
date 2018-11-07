@@ -5,5 +5,5 @@ Notas:
       - Debe existir un marcador para conocer las coordenadas de la ubicación
       
 Pruebas: 
-      -Probar seleccionar un punto fuera del rango establecido (Falla)
-      -Probar seleccionar un punto dentro del rango establecido (Pasa)
+      -Probar seleccionar un punto fuera del rango establecido (Falla).
+      -Probar seleccionar un punto dentro del rango establecido (Pasa).
