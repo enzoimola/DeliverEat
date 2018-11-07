@@ -9,4 +9,4 @@ Notas:
         - Completando en forma textual la dirección del comercio
 Pruebas 
 -Probar completar con todos los campos completos (Pasa)
--Probar completar con algún campo incompleto (Falla)
+-Probar completar con algún campo incompleto (falla)
